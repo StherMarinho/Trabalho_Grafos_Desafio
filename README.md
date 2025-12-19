@@ -2,7 +2,6 @@
 
 Este projeto implementa a resolução de um problema de **menor caminho em grafos**, utilizando o **Algoritmo de Dijkstra**, considerando **dois tipos de transporte**: ônibus e avião.  
 A solução calcula o menor custo em cada grafo e exibe o **menor valor entre eles**.
----
 
 ## Ideia Geral da Solução
 
