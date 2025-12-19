@@ -17,8 +17,11 @@ A solução calcula o menor custo em cada grafo e exibe o **menor valor entre el
 
 Trabalho_Grafos_Desafio/
 │
+
 ├── Program.cs // Leitura da entrada e execução do programa
+
 ├── Grafo.cs // Representação do grafo com lista de adjacência
+
 └── Dijkstra.cs // Implementação do algoritmo de Dijkstra
 
 ## Tecnologias Utilizadas
